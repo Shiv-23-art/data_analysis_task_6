@@ -21,7 +21,7 @@ This project is part of my Data Analyst internship task, where I performed time-
 ## SQL Highlights
 
   - GROUP BY` with `DATE_FORMAT()` and `EXTRACT()` for time-based aggregation
-  - `SUM()` for total revenue, `COUNT(DISTINCT transaction_id)` for order volume
+  - `SUM ()` for total revenue, `COUNT(DISTINCT transaction_id)` for order volume
   - **Cumulative revenue tracking using `SUM() OVER ()` for progressive trend analysis**
   - Queries identifying:  
    - Monthly performance  
