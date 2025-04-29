@@ -48,4 +48,4 @@ Screenshots of:
 - Connecting Python to a live database
 - Visualizing time-series trends with moving averages
 
-- ## Took help of w3schools website and youtube to learn advanc3ed analysis, got into error once, but i tried to debug it and do it again.
+- ## Took help of w3schools website and youtube to learn advanced analysis, got into error once, but i tried to debug it and do it again. Also tried to make some visuals for better analysis.
